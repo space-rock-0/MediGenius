@@ -46,11 +46,17 @@ semantic recall over a separate ChromaDB collection.
 
 ---
 
-[![Project demo video](https://github.com/user-attachments/assets/d491cf14-a7b0-4fce-804e-b174da779f7a)](https://github.com/user-attachments/assets/d491cf14-a7b0-4fce-804e-b174da779f7a)
+## **Demo**
 
-<img width="1366" height="614" alt="Image" src="https://github.com/user-attachments/assets/4b5dd09d-3c0d-4caa-9c27-120b1c0b8026" />
+[![MediGenius demo](./demo-1.png)](./demo.mp4)
 
-<img width="1366" height="614" alt="Image" src="https://github.com/user-attachments/assets/03376e11-32fd-45a9-a9ec-baa6ff8468d6" />
+### Demo screenshots
+
+<img width="1366" height="614" src="./demo-1.png" alt="MediGenius welcome screen" />
+
+<img width="1366" height="614" src="./demo-2.png" alt="MediGenius safety response screen" />
+
+[Watch the full demo video](./demo.mp4)
 
 ---
 
