@@ -47,14 +47,8 @@ semantic recall over a separate ChromaDB collection.
 ---
 
 ## **Demo**
+[![Project demo video](https://github.com/user-attachments/assets/d491cf14-a7b0-4fce-804e-b174da779f7a)](https://github.com/user-attachments/assets/d491cf14-a7b0-4fce-804e-b174da779f7a)
 
-<<<<<<< HEAD
-[![MediGenius demo](./demo.mp4)](./demo.mp4)
-=======
-<video src="./demo.mp4" controls muted poster="./demo-1.png" width="100%">
-  Your browser does not support embedded videos. <a href="./demo.mp4">Download the demo video</a>.
-</video>
->>>>>>> 58a806d (Embed demo video in README)
 
 ### Demo screenshots
 
