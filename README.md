@@ -48,7 +48,13 @@ semantic recall over a separate ChromaDB collection.
 
 ## **Demo**
 
+<<<<<<< HEAD
 [![MediGenius demo](./demo.mp4)](./demo.mp4)
+=======
+<video src="./demo.mp4" controls muted poster="./demo-1.png" width="100%">
+  Your browser does not support embedded videos. <a href="./demo.mp4">Download the demo video</a>.
+</video>
+>>>>>>> 58a806d (Embed demo video in README)
 
 ### Demo screenshots
 
@@ -56,7 +62,7 @@ semantic recall over a separate ChromaDB collection.
 
 <img width="1366" height="614" src="./demo-2.png" alt="MediGenius safety response screen" />
 
-[Watch the full demo video](./demo.mp4)
+[Download the full demo video](./demo.mp4)
 
 ---
 
