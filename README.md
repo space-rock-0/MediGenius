@@ -48,7 +48,7 @@ semantic recall over a separate ChromaDB collection.
 
 ## **Demo**
 
-[![MediGenius demo](./demo-1.png)](./demo.mp4)
+[![MediGenius demo](./demo.mp4)](./demo.mp4)
 
 ### Demo screenshots
 
