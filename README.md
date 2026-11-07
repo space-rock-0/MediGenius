@@ -47,7 +47,7 @@ semantic recall over a separate ChromaDB collection.
 ---
 
 ## **Demo**
-[![Project demo video](https://github.com/user-attachments/assets/43d3ea25-2ec5-489c-a891-8231081a5e03)](https://github.com/user-attachments/assets/43d3ea25-2ec5-489c-a891-8231081a5e03)
+[![Project demo video](https://github.com/user-attachments/assets/984c7fbd-d71b-4915-8300-28a43d1e9c6e)](https://github.com/user-attachments/assets/984c7fbd-d71b-4915-8300-28a43d1e9c6e)
 
 
 ### Demo screenshots
